@@ -9,7 +9,7 @@ A Blender plugin that enhances camera control for animation, providing customiza
 ![image](https://github.com/user-attachments/assets/9ed1c909-f5ba-48c9-b06a-314b55a8cf5f)
 
 ### **Setup**
-Download OST_playblast.py and open it in the script editor. After running the file you'll find a new option at the bottom of the output tab named *Playblast* 
+Download OST_OpenCam.zip and install it through the Extensions or Addon menu.
 
 ![image](https://github.com/user-attachments/assets/95ab3c47-d10d-4f78-827d-c1a5dc8a16f0)
 
