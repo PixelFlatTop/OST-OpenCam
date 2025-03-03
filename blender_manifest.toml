@@ -1,0 +1,13 @@
+schema_version = "1.0.0"
+id = "ostopencam"
+version = "0.0.1"
+name = "OST-OpenCam"
+tagline = "Custome Camera from the OpenShort Tools series"
+maintainer = "pixelflattop"
+type = "add-on"
+website = "https://github.com/PixelFlatTop/OST-OpenCam"
+tags = ["3D View"]
+blender_version_min = "4.2.0"
+license = [
+"SPDX:GPL-2.0-or-later",
+]
